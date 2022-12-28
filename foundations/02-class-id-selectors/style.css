@@ -1,0 +1,25 @@
+/* styles for all elements with the "odd" class */
+  .odd {
+    background-color: #ffc0cb;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+  }
+  
+  /* style for the element with the "id-1" id */
+  #id-1 {
+    color: blue;
+    font-size: 36px;
+  }
+
+  #id-3 {
+    background-color: #ffc0cb;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-size: 24px;
+  }
+  
+  /* style for the element with the "odd" class and the "id-2" id */
+  .odd#id-2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
